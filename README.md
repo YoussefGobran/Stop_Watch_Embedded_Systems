@@ -15,7 +15,8 @@
      using a **NPN BJT** transistor connect to one of the MCU pins.
      Like the below image:
 
-  
+  ![Mini Project 2](https://github.com/YoussefGobran/Stop_Watch_Embedded_Systems-/assets/132088403/194c6a57-d1a5-4463-ba21-f0fce133c49f)
+
 
 
 5. Connect 7447 decoder 4-pins to the first 4-pins in PORTC.
