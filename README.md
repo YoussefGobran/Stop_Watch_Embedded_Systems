@@ -1,5 +1,4 @@
 # Stop_Watch_Embedded_Systems
-## Mini Project 2
 
  **Stop Watch** system with the specifications listed below:
 
